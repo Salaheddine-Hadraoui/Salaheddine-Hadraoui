@@ -51,7 +51,7 @@ const salaheddine = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Salaheddine-Hadraoui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=bd00ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Salaheddine-Hadraoui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=bd00ff&text_color=c9d1d9&rank_icon=github" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salaheddine-Hadraoui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=Salaheddine-Hadraoui&theme=tokyonight&hide_border=true&background=0D1117&ring=BD00FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
